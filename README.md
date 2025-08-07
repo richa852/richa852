@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Richa Kumari
 
-<!--
-**richa852/richa852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Web Developer & Data Enthusiast  
+🎓 B.Tech | Contributor @ GSSoC '25 | 
+💡 Passionate about solving problems, coding, and continuous learning
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Power BI, Python, DSA, JavaScript, and building full-stack projects.  
+My goal is to build real-world solutions that are both functional and impactful.
+
+## 🚀 Tech Stack
+
+- 💻 Languages: Java, JavaScript, Python  
+- 🌐 Web: HTML, CSS, React (Basic)  
+- 📊 Tools: Power BI, Excel, Canva, GSAP  
+- 📚 Learning: Node.js, , Dashboard Design
+
+
+
